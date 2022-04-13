@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
         TextView campoResultado = findViewById(R.id.resultado);
         Random rand = new Random();
         this.numberSorted = rand.nextInt(11);
-        campoResultado.setText("Resultado é:" + this.numberSorted);
+
+        //entender o por que daquele erro ao passar uma string para esse campo.
+        campoResultado.setText(""+this.numberSorted);
+        campoResultado.getCurrentTextColor();
     }
 }
