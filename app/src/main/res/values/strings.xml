@@ -3,4 +3,6 @@
     <string name="TituloSorteio">Clique em "SORTEAR UM VALOR" para iniciar.</string>
     <string name="TextoBotaoSorteio">SORTEAR UM VALOR</string>
     <string name="valorDefaulttNumeroSorteio">"?"</string>
+    <string name="tituloNoticia">Teclado mecânico: 5 boas opções por menos de R$ 400</string>
+    <string name="textoNoticia">O teclado mecânico é um dos periféricos que os gamers podem considerar para melhorar ainda mais o seu desempenho nos jogos. O modelo, diferente de um teclado convencional, possui um tempo de resposta mais baixo, permitindo que o jogador consiga “sentir” com mais rapidez os comandos enviados.</string>
 </resources>

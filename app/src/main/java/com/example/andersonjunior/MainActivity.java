@@ -26,4 +26,12 @@ public class MainActivity extends AppCompatActivity {
         campoResultado.setText(""+this.numberSorted);
         campoResultado.getCurrentTextColor();
     }
+
+    public void mudarParaOutraTela(View view){
+        setContentView(R.layout.news);
+    }
+
+    public void voltarTelaAnterior(View view){
+        setContentView(R.layout.activity_main);
+    }
 }
